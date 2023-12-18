@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en, tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YAsin AYDIN</title>
+</head>
+<body>
+
+    <header>
+        <h1>Yasin AYDIN</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Hakkımda</h2>
+            <p>Merhaba, bu denediğim bşr html sayfası örneğidir.  Hakkımda detayları bu paragrafta vardır.</p>
+        </section>
+
+        <section>
+            <h2>Sevdiğim Şeyler</h2>
+            <h3>Filmler</h3>
+            <p>Başlangıç</p>
+            <p>Dünyayı arkanda bırak</p>
+            <h3>Diziler</h3>
+            <p>Zamanın çarkı</p>
+            <h3>Yemekler</h3>
+            <p>Çok yemek var yaa</p>
+            <h3>Aktiviteler</h3>
+            <p>Gezmek, tozmak vsvs</p>
+
+        </section>
+    </main>
+
+
+</body>
+</html>
